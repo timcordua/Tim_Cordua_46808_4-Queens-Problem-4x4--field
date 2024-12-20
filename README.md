@@ -31,7 +31,7 @@ class  Schachbrett  {
 
 -cols_sb:  Int
 
-+Initialisieren(self, rows, cols)
++Schachbrett(self, rows, cols)
 
 +SchachbrettErstellen(self)
 
@@ -43,7 +43,7 @@ class  VierDamenProblemLoesung  {
 
 -Schachbrett:  Int
 
-+Initialisieren(self, n)
++VierDamenProblemLoesung(self, n)
 
 +PlatzPruefen(self, Schachbrett, row, col)
 
