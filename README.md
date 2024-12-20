@@ -3,6 +3,9 @@ Praktisches Projekt zur Vorlesung "Einführung Artificial Intelligence" im Winte
 
 # Vier-Damen-Problem
 
+## Problemstellung:
+Das Vier-Damen-Problem besteht darin, vier Damen auf einem Schachbrett beliebiger Größe zu platzieren, sodass keine Dame eine andere im Rahmen eines Zuges schlagen kann. Im speziellen Fall eines 4x4-Schachbretts ist die Aufgabe, die Damen so anzuordnen, dass sie sich weder in der gleichen Reihe (horizontal), in der gleichen Spalte (vertikal) noch auf der gleichen Diagonalen befinden. Wenn diese Bedingungen erfüllt sind, kann keine Dame eine andere innerhalb eines Zuges bedrohen, und das Problem gilt als gelöst.
+
 ## Fragen:
 
 **Wie wird das CSP modelliert?**
