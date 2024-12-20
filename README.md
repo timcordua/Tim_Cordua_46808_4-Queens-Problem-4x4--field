@@ -53,7 +53,7 @@ class  VierDamenProblemLoesung  {
 
   
 
-VierDamenProblemLoesung  --  Schachbrett
+VierDamenProblemLoesung  o--  Schachbrett
 ```
 
 ## Verwendete Quellen:
